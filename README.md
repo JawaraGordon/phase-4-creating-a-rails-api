@@ -7,6 +7,7 @@
 
 ## Introduction
 
+
 We've spent a lot of time now focusing on the backend, and now's a great
 opportunity to see what we can actually do with all the power of a Rails API to
 support a frontend application as well.
